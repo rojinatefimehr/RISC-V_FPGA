@@ -1,0 +1,15 @@
+{
+  "name": "app_component_1",
+  "type": "HOST",
+  "platform": "C:\\Users\\rojin\\OneDrive\\Desktop\\projectTest\\vitis_all\\platform\\export\\platform\\platform.xpfm",
+  "domain": "standalone_microblaze_riscv_0",
+  "cpuInstance": "microblaze_riscv_0",
+  "cpuType": "microblaze_riscv",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_microblaze_riscv_0",
+  "applicationFlow": "EMBEDDED"
+}

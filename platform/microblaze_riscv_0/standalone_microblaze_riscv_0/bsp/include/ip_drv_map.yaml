@@ -1,0 +1,36 @@
+RGB_LED_1:
+- axi_gpio
+- gpio
+RGB_LED_2:
+- axi_gpio
+- gpio
+SSD_ANODE1_BASE_1:
+- axi_gpio
+- gpio
+SSD_ANODE_BASE:
+- axi_gpio
+- gpio
+SSD_CATHOD1_BASE_1:
+- axi_gpio
+- gpio
+SSD_CATHOD_BASE:
+- axi_gpio
+- gpio
+axi_timer_0:
+- axi_timer
+- tmrctr
+axi_uartlite_0:
+- axi_uartlite
+- uartlite
+btn:
+- axi_gpio
+- gpio
+led:
+- axi_gpio
+- gpio
+microblaze_riscv_0_axi_intc:
+- axi_intc
+- intc
+sw:
+- axi_gpio
+- gpio

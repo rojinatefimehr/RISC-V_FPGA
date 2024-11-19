@@ -1,6 +1,5 @@
 
-[FPGA_Design.pdf](https://github.com/user-attachments/files/17821185/FPGA_Design.pdf)
-
+<img width="1440" alt="Screenshot 2024-11-19 at 12 42 30 PM" src="https://github.com/user-attachments/assets/960f2d07-0a51-434e-ab88-47fb65ca6a7d">
 
 
 # RISC-V FPGA Project

@@ -1,3 +1,8 @@
+
+[FPGA_Design.pdf](https://github.com/user-attachments/files/17821185/FPGA_Design.pdf)
+
+
+
 # RISC-V FPGA Project
 
 This repository contains the Vitis project files for implementing a RISC-V processor on an FPGA. The project enables control of various peripherals, including:
